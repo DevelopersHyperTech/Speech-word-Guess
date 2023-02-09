@@ -32,27 +32,7 @@ h1 {
     text-align: center;
     margin-bottom: 0;
 }
-footer {
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 12px;
-    background-color: #144272;
-    width: 100vw;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 10px;
-    text-align: center;
-}
 
-@media (max-width:800px) {
-    footer {
-        font-size: 10px;
-        padding: 5px;
-    }
-    /* .header {
-        transform: translateY(20%);
-    } */
-}
 
 h3 {
     text-align: center;
